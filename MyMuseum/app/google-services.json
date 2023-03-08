@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168106463509",
+    "firebase_url": "https://mymuseum-4a0b2.firebaseio.com",
+    "project_id": "mymuseum-4a0b2",
+    "storage_bucket": "mymuseum-4a0b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168106463509:android:c0bce2ad71000e01d4d91c",
+        "android_client_info": {
+          "package_name": "exam.spring.mymuseum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168106463509-sldstjeq9mc6ps5gjrsba4hc29ab3isk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "exam.spring.mymuseum",
+            "certificate_hash": "5c97bb78243101bbd9fe257cb8c90a5a287b0a12"
+          }
+        },
+        {
+          "client_id": "168106463509-0v1pdvi02k1725gpknqsoavufbb91lo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYERDvAvAdQjD4ne54LxNA5OQCdunkxMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168106463509-0v1pdvi02k1725gpknqsoavufbb91lo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
